@@ -24,11 +24,11 @@ This user-friendly, scalable, and customizable application integrates with exist
 
 - **Email notifications:**
 
-  > Send emails to the shortlisted candidates, informing them about the next steps in the hiring process
+> Send emails to the shortlisted candidates, informing them about the next steps in the hiring process
 
 - **Screening questions**
 
-  > Develop screening questions for each candidate, considering different levels of importance or significance assigned to the job description and the candidate's CV
+> Develop screening questions for each candidate, considering different levels of importance or significance assigned to the job description and the candidate's CV
 
 - **First-round interview**
   > Conduct the first round of interview
