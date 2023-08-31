@@ -1,6 +1,6 @@
 # Axis - Large Language Models Bankathon 1.0 (AUG '23)
 
-## &copy;Code_Blasters
+<-- ## &copy;Code_Blasters ->
 
 ## Overview:
 
