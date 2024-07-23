@@ -4,6 +4,8 @@ The LLM-based application simplifies and improves HR processes by using Language
 
 This user-friendly, scalable, and customizable application integrates with existing HR systems and tools, ensuring smooth data flow and compatibility. Its ultimate goal is to optimize HR processes, minimize manual efforts, enhance decision-making, and improve the employee experience.
 
+**_Note: This repository contains only my portion of the work (publically), It was a group project by me and other 4 team members_**
+
 ## Task:
 
 ## 1. Input: Accept job descriptions and multiple CVs in various formats.
